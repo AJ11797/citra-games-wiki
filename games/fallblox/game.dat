@@ -13,8 +13,3 @@ release_date = "2012-11-15"
 title = "00040000000B6E002"
 region = "usa"
 release_date = "2012-11-22"
-
-[[releases]]
-title = "00040000000AAD00"
-region = "jap"
-release_date = "2012-10-31"
